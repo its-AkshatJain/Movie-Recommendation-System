@@ -1,4 +1,4 @@
-![image](https://github.com/its-AkshatJain/Movie-Recommendation-System/assets/129594034/cf1368a4-94c3-4070-ad7f-9ab53a5d51ef)# Movie-Recommendation-System
+# Movie-Recommendation-System
 Movie recommendation system suggests films based on similar user preferences, using association mining for personalized suggestions.
 
 **Movie Recommendation System using Python and Tkinter**
@@ -37,11 +37,5 @@ Drama, Crime, Action, Romance, Adventure, Sci-Fi, Thriller, Comedy, Horror, Anim
 
 **Author:**
 [Akshat Jain](https://github.com/its-AkshatJain)
-
-**License:**
-[Specify license if applicable]
-
-**Contributing:**
-[Provide instructions for contributing if you wish to open-source the project.]
 
 Feel free to customize this README according to your preferences and project details.
